@@ -10,7 +10,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://stackoverflow.com/users/357128" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="357128" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/357128/diego-gonzalez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="357128" height="30" width="40" /></a>
 <a href="https://instagram.com/@diego_.gonzalez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@diego_.gonzalez" height="30" width="40" /></a>
-<a href="https://discord.gg/@diegoparadiso" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="@diegoparadiso" height="30" width="40" /></a>
+<a href="discordapp.com/usuarios/698737021560160291" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="@diegoparadiso" height="30" width="40" /></a>
 </p>
