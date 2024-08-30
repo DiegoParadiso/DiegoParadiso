@@ -1,4 +1,4 @@
-<h1 align="center">Hello World! I'm Diego González</h1>
+<h1 align="center">Hi. I'm Diego González</h1>
 <h3 align="center">Always adapting to the needs of the changing world.</h3>
 
 ✉ How to reach me **diego.gonzaaleez.a@gmail.com**
