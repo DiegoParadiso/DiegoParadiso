@@ -1,2 +1,1 @@
-`✉ How to reach me`  
-`diegoagonzalez33@gmail.com`
+`✉ How to reach me:`  `diegoagonzalez33@gmail.com`
