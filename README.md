@@ -1,2 +1,2 @@
-### ✉ How to reach me  
+`✉ How to reach me`  
 `diegoagonzalez33@gmail.com`
