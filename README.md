@@ -1,5 +1,2 @@
-> *"Elegance in code decides between success and failure."*  
+> *"Simplicity and clarity — what mathematicians call 'elegance' — are not a dispensable luxury, but a crucial matter that decides between success and failure."*  
 > — Edsger W. Dijkstra
-
-✉ diegoagonzalez33@gmail.com
-
